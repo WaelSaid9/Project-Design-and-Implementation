@@ -1,0 +1,28 @@
+# Core GUI Framework
+PySide6>=6.5.0
+
+# Cryptography & Security
+cryptography>=41.0.0
+
+# Password Strength Analysis
+zxcvbn>=4.4.28
+
+# Emoji Support
+emoji>=2.10.0
+
+# System Utilities
+psutil>=5.9.0
+
+# Clipboard Support
+pyperclip>=1.8.2
+
+# JSON & Data Handling
+jsonschema>=4.19.0
+
+# Testing & Development
+pytest>=7.4.0
+coverage>=7.3.0
+
+# Additional Utilities
+python-dateutil>=2.8.2
+pytz>=2023.3
